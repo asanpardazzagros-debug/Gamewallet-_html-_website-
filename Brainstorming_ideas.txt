@@ -1,0 +1,4 @@
+Here is a text to jot down some ideas-
+
+My favorite React Template-
+https://github.com/Adrinlol/landy-react-template
