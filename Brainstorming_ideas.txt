@@ -2,3 +2,11 @@ Here is a text to jot down some ideas-
 
 My favorite React Template-
 https://github.com/Adrinlol/landy-react-template
+
+
+So, it looks like the address for the wallet is-
+60bc49f6b5f71492c187ae13925c556e7a057314
+
+I like the image of the Ethereum Contract.
+Where is the Unity code for this game?
+I guess it uses a web3 library to connect?
